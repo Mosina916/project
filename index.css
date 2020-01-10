@@ -1,0 +1,80 @@
+h1{
+	color: white;
+	font-weight: 700;
+	font-size: 3em;
+}
+.imgg{
+	height:600px;
+	width:100%;
+}
+#link{
+	padding-left: 45%;
+	
+}
+.big{
+	font-style: italic;	
+	
+}
+
+.pink{
+			color: black;
+			border: 1px solid rgb(52, 222, 235); 
+			margin-top: 20px;
+			/*margin-left:1%;*/
+			/*margin-right:1%;*/
+		}
+
+
+
+.bold{
+	font-weight: 800;
+	text-shadow: rgba(52, 128, 235,1);
+}
+.colour{
+	color: rgb(52, 128, 235)
+}
+.heading{
+	/*margin-top: 20px;*/
+	text-align: center;
+	font-size: 30px;
+	color: rgb(52, 128, 235);
+}
+hr{
+	width: 500px;
+	color: black;
+}
+html{
+	height: 100%;
+}
+p{
+	font-family: Arial;
+}
+body{
+	/*background: url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);*/
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+.button{
+	margin-top: 3%;
+	margin-left: 46%;
+	margin-bottom: 5%;
+	color:rgb(52, 128, 235); 
+	border-color: rgb(52, 222, 235);
+}
+#icon{
+	margin-right: 4px;
+}
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+#gapp{
+	padding-right:0px;
+}
+#gap{
+	padding-right: 25px;
+}
+#but{
+	background-color:white;
+}

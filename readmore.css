@@ -1,0 +1,35 @@
+.big{
+	font-style: italic;	
+	
+}
+hr{
+	width: 500px;
+	color: black;
+}
+#link{
+	padding-left: 45%;
+	
+}
+
+.pink{
+			color: black;
+			border: 1px solid rgb(52, 222, 235); 
+			margin-top: 15px;
+			margin-left:3%;
+			margin-right:3%;
+		}
+
+
+.bold{
+	font-weight: 800;
+	text-shadow: rgba(52, 128, 235,1);
+}
+.colour{
+	color: rgb(52, 128, 235)
+}
+.heading{
+	margin-top: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: rgb(52, 128, 235);
+}

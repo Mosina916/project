@@ -1,0 +1,66 @@
+body{
+	margin:0;
+	margin: 0;
+	font-family: sans-serif;
+	background-image: url(https://media.gettyimages.com/photos/new-asphalt-highway-scenery-at-sunset-picture-id544344076?b=1&k=6&m=544344076&s=612x612&w=0&h=1hflxWkN62Rma5NXuzHJaM8ikTL0oGcZu_pbxWTNAxI=);
+   background-size: cover;
+   background-position:center;
+
+   }
+   html{
+   	height: 100%;
+   }
+.sign-up-form{
+	width: 300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #fff;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+.sign-up-form h1{
+	color: #1c8adb;
+	margin-bottom: 30px;
+} 
+.input-box{
+	border-radius: 20px;
+	padding: 10px;
+	margin:10px 0;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+}
+
+.signup-btn{
+	background-color: #1c8adb;
+	border: 1px solid #999;
+	outline: none;
+	border-radius: 20px;
+	padding: 10px;
+	margin:10px 0;
+	width: 100%;
+
+
+}
+.twitter-btn{
+	background-color: #21afde;
+	border: 1px solid #999;
+	outline: none;
+	border-radius: 20px;
+	padding: 10px;
+	margin:10px 0;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+}
+hr{
+	margin-top: 20px;
+	width: 80%;
+}
+.or{
+	background: #fff;
+	width: 30px;
+	margin: -19px auto 10px;
+
+}
