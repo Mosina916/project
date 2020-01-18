@@ -2,6 +2,10 @@
 	font-style: italic;	
 	
 }
+hr{
+	width: 500px;
+	color: black;
+}
 
 li,p{
 	font-family: Arial;
@@ -35,10 +39,6 @@ li,p{
 	 background-color: #21d192;
 	 color: rgb(247, 252, 252);
 
-}
-hr{
-	width: 500px;
-	color: black;
 }
 #link{
 	display:block;
